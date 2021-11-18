@@ -1,7 +1,8 @@
 aaaaaaaa
 aaaaaaaaaaaaz
 xxxxxxxxxi
-c
+<<<<<<< HEAD
 c 给这里添加一行
+c 给这一行上代码
 
 
